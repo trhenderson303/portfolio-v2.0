@@ -1,6 +1,7 @@
 {
-  "name": "client",
+  "name": "Thomas Henderson Portfolio",
   "version": "0.1.0",
+  "homepage":"https://trhenderson303.github.io/portfolio-v2.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -21,6 +22,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
