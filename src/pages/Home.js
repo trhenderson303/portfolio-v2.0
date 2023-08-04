@@ -51,7 +51,7 @@ export default function Home() {
           <motion.div
           animate={{scale: 1 }}
           initial={{ scale: 0 }}> 
-            <img src={portrait} className="portrait"></img>
+            <img src={portrait} className="portrait" alt="thomas-cutout"></img>
             </motion.div>
         </div>
         <motion.div
@@ -60,7 +60,7 @@ export default function Home() {
           initial={{ rotateX: -100 }}
           transition={{ type: "tween" }}
           exit={{ y: -10000, duration: 0}}
-        > <img src={skyline} className="skyline"></img> </motion.div>
+        > <img src={skyline} className="skyline" alt="skyline"></img> </motion.div>
         </div>
     </motion.div>
     

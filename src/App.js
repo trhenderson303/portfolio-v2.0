@@ -31,7 +31,7 @@ function App() {
       <Router>
         <div className='home-canvas-wrapper'>
           <canvas className="home-canvas" />
-          <img src={logo} className="logo"></img>
+          <img src={logo} className="logo" alt="TRH-logo"></img>
         <AnimatedRoutes/ >
       </div>
     </Router >
