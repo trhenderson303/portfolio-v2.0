@@ -5,7 +5,7 @@ import React, { useEffect } from 'react';
 import Granim from 'granim';
 import {AnimatePresence} from 'framer-motion';
 
-const logo = require('./assets/logo.png')
+const logo = require('./assets/trh.png')
 
 function App() {
   useEffect(() => {

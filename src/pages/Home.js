@@ -27,7 +27,7 @@ export default function Home() {
       <motion.div
           animate={{x: 0, y: 0, scale: 1 }}
           initial={{x: -1000, y: -1000, scale: 0 }}
-          transition={{ type: "spring", damping: 10, stiffness: 40 }}
+          transition={{ type: "spring", damping: 10, stiffness: 40, duration: 1.3 }}
           
         ><Link to={"/about"} className="home-item">
         <h1> About </h1>
@@ -38,7 +38,7 @@ export default function Home() {
         <motion.div
           animate={{x: 0, y: 0, scale: 1 }}
           initial={{x: -1000, y: -1000, scale: 0 }}
-          transition={{ type: "spring", damping: 8, stiffness: 30 }}
+          transition={{ type: "spring", damping: 8, stiffness: 30, duration: 1.6 }}
           
         ><Link to={"/contact"} className="home-item">
         <h1> Contact </h1>
@@ -50,7 +50,8 @@ export default function Home() {
         <div className='portrait-box'>
           <motion.div
           animate={{scale: 1 }}
-          initial={{ scale: 0 }}> 
+            initial={{ scale: 0 }}
+            ransition={{ duration: 1 }}> 
             <img src={portrait} className="portrait" alt="thomas-cutout"></img>
             </motion.div>
         </div>
