@@ -21,6 +21,9 @@ https://github.com/trhenderson303/portfolio-v2.0
 
 ## Photos
 <img width="1440" alt="Screenshot 2023-08-03 at 11 06 21 PM" src="https://github.com/trhenderson303/portfolio-v2.0/assets/132783253/b68fa762-c2c4-486f-b93b-aee90ee4ced1">
+<img width="281" alt="Screenshot 2023-08-03 at 11 12 00 PM" src="https://github.com/trhenderson303/portfolio-v2.0/assets/132783253/71848421-2d58-48c7-9e19-5958eb4ec25b"> <img width="383" alt="Screenshot 2023-08-03 at 11 07 27 PM" src="https://github.com/trhenderson303/portfolio-v2.0/assets/132783253/f0a02bc2-b982-4d46-b172-7e7b6a433cd5">
+
+
 
 
 
