@@ -34,17 +34,16 @@ export default function Portfolio() {
                   />
                   <CardContent>
                     <Typography gutterBottom id="custom-card-title">
-                      Cache Money Records
+                      Budgie
                     </Typography>
                     <Typography id="custom-card-caption">
-                      A personal assistant app to help budget responsibly
-                      (coming Aug. 3)
+                      A personal assistant app to help budget responsibly.
                     </Typography>
                   </CardContent>
                   <CardActions>
                     <Button
                       id="custom-button"
-                      href="#"
+                      href="https://budgie-c967e4a5fd01.herokuapp.com/"
                       target="_blank"
                       size="small"
                     >
