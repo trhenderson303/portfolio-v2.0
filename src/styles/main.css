@@ -90,6 +90,22 @@
     padding: 1rem;
 }
 
+.connect-box{
+    margin-bottom: 2rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.connect-box h6{
+    font-family: 'Figtree', sans-serif;
+    font-size: 2rem;
+    color: var(--blue-6);
+    margin-bottom: 1rem;
+}
+
 .logo{
     position: fixed;
     top: 4%;
