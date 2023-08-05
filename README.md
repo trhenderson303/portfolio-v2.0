@@ -3,6 +3,7 @@
 
 ## Link
 https://thomasrhenderson.com/ (activated 8/5, pending SSL approval)
+
 https://eclectic-custard-5a74e9.netlify.app/ 
 
 ## Description
