@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Link
-https://thomasrhenderson.com/ (activated 8/5, pending SSL approval)
+https://thomasrhenderson.com/
 
 https://eclectic-custard-5a74e9.netlify.app/ 
 
